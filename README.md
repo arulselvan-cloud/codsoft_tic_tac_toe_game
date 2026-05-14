@@ -106,4 +106,4 @@ An interactive game with dynamic board display, win/loss detection, and replay f
 
 ## 👨‍💻 Author
 
-Developed by **ARULSELVAN** as part of the Thiranex Internship Program.
+Developed by **ARULSELVAN** as part of the Codsoft Internship Program.
